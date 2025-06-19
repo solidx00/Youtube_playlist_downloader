@@ -7,9 +7,9 @@ Uno script Python per scaricare una playlist da YouTube e convertire i brani in 
 - Estrazione automatica del titolo della playlist
 - Creazione automatica della cartella di destinazione
 - Conversione audio in:
-  - **FLAC** (default)
-  - **WAV** *(commentato nello script)*
-  - **MP3 a 320 kbps** *(commentato nello script)*
+  - **FLAC**
+  - **WAV** 
+  - **MP3 a 320 kbps**
 - Frequenza di campionamento forzata a 44100 Hz
 - Compatibilità con YouTube e altri provider supportati da `yt_dlp`
 
