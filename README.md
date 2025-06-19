@@ -75,7 +75,7 @@ Questo script è pensato per uso personale e didattico.
 Rispetta i termini di servizio di YouTube.
 L'uso improprio di questo strumento può violare i diritti d'autore.
 
-## 🧑‍💻Autore
+## 🧑‍💻 Autore
 
 Francesco Citeroni
 🗓️ 2025
