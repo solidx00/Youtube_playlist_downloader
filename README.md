@@ -71,6 +71,6 @@ C:\Users\franc\Documents\Youtube_Playlist_Converter\output\<TitoloPlaylist>
 
 ## 🧑‍💻 Autore
 
-Francesco Citeroni
-🗓️ 2025
+Francesco Citeroni␣␣
+🗓️ 2025␣␣
 📧 francescociteroni.97@gmail.com
