@@ -69,12 +69,6 @@ C:\Users\franc\Documents\Youtube_Playlist_Converter\output\<TitoloPlaylist>
         └── 01 - Nome brano.flac
 ```
 
-##❗Avvertenze
-
-Questo script è pensato per uso personale e didattico.
-Rispetta i termini di servizio di YouTube.
-L'uso improprio di questo strumento può violare i diritti d'autore.
-
 ## 🧑‍💻 Autore
 
 Francesco Citeroni
