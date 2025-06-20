@@ -54,7 +54,7 @@ python downloader.py
 - I file audio verranno salvati in:
  
 ```lua
-C:\Users\franc\Documents\Youtube_Playlist_Converter\output\<TitoloPlaylist>
+C:\Users\...\Youtube_Playlist_Converter\output\<TitoloPlaylist>
 ```
 
 ## 🛠 Struttura del Progetto
