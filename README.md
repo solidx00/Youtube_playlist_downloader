@@ -1,10 +1,10 @@
-# 🎵 YouTube Playlist/Traccia Audio Downloader
+# 🎵 YouTube Playlist Audio Downloader
 
 Uno script Python per scaricare una playlist da YouTube e convertire i brani in formato audio di alta qualità (FLAC, WAV o MP3). Ogni file viene salvato in una cartella dedicata con il titolo della playlist.
 
 ## 📦 Funzionalità
 
-- Estrazione automatica del titolo della playlist o della traccia
+- Estrazione automatica del titolo della playlist
 - Creazione automatica della cartella di destinazione
 - Conversione audio in:
   - **FLAC**
